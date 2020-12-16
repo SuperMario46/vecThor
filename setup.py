@@ -5,7 +5,7 @@ with open("README.MD", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="vextors-SuperMario64",  
-    version="0.0.1",
+    version="0.0.2",
     author="Simone Spedicato",
     author_email="simonespedicatospf@gmail.com",
     description="A small package to deal with vectors",
@@ -19,4 +19,5 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires=">=3.6",
+    license="MIT"
 )
