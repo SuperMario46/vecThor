@@ -1,0 +1,6 @@
+setup.py
+vextors/__init__.py
+vextors_SuperMario64.egg-info/PKG-INFO
+vextors_SuperMario64.egg-info/SOURCES.txt
+vextors_SuperMario64.egg-info/dependency_links.txt
+vextors_SuperMario64.egg-info/top_level.txt
