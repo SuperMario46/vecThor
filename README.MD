@@ -5,10 +5,10 @@ vextors is a Python library for dealing with basic operation between vectors on 
 ## Installation
 
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install vecThor.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install vextors.
 
 ```bash
-pip install vecThor
+pip install vextors
 ```
 
 ## Usage
